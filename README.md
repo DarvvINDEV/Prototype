@@ -1,2 +1,0 @@
-# Prototype
-Prototypy projektów
